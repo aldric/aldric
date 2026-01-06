@@ -22,4 +22,4 @@ I architect resilient digital ecosystems through **Edge-Native Performance** and
 **Consulting & Advisory:** [hello@spky.io](mailto:hello@spky.io) | [LinkedIn](https://linkedin.com/in/aldricgaudinot) | [Website](https://spky.io)
 
 ---
-**Note:** *Repositories archived to prioritize strategic architectural blueprints.*
+**Note:** *Most of my professional work remains in private enterprise environments; I use this profile to share the architectural standards and blueprints that define my approach.*
