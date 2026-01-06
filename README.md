@@ -174,7 +174,7 @@ I combine **hands-on technical expertise** with **strategic thinking**, comforta
 
 | **Category** | **Technologies** |
 |---|---|
-| **Cloud & Infrastructure** | GCP, AWS, Cloudflare (Workers, Zero Trust, WAF), Docker, Kubernetes, Terraform |
+| **Cloud & Infrastructure** | GCP, Cloudflare (Workers, Zero Trust, WAF), Azure, Docker, Kubernetes, Terraform |
 | **Data & Analytics** | Apache Airflow, Apache Beam, PostgreSQL, MySQL, MongoDB, Firebase, BigQuery |
 | **Security & Compliance** | Zero Trust architecture, SAML, RBAC, PCI-DSS, encryption, audit logging, secret management |
 | **AI & Automation** | RAG systems, LLM integration, workflow automation, chatbots |
@@ -251,13 +251,22 @@ Interested in discussing cloud architecture, data platforms, AI integration, or 
 
 ---
 
+## 📊 GitHub Activity
+
+My work includes both public and private repositories. GitHub tracks all contributions—including commits to private projects.
+
+**Public Profile:** [![GitHub](https://img.shields.io/badge/GitHub-aldric-181717?style=flat&logo=github)](https://github.com/aldric)  
+**Contributions:** 565+ in the last year (public + private)
+
+> 💡 **Note:** Most of my professional work is in private repositories. Check my README above for detailed case studies and project descriptions.
+
+---
+
 ## 📊 GitHub Contributions
 
 My contributions include mainly private repositories. GitHub contributions counter includes all of my work across public and private projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldric&show_icons=true&theme=dark&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldric&layout=compact&theme=dark)](https://github.com/aldric)
+[![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldric&theme=dark)](https://github.com/aldric)
 
 ---
 
