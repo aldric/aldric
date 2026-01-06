@@ -247,7 +247,7 @@ Interested in discussing cloud architecture, data platforms, AI integration, or 
 
 - 📧 **Email:** [hello@spky.io](mailto:hello@spky.io)
 - 🌐 **Website & Consulting:** [spky.io](https://spky.io)
-- 💼 **LinkedIn:** [linkedin.com/in/aldric](https://linkedin.com/in/aldric)
+- 💼 **LinkedIn:** [linkedin.com/in/aldric](https://linkedin.com/in/aldricgaudinot)
 
 ---
 
