@@ -245,7 +245,7 @@ I combine **hands-on technical expertise** with **strategic thinking**, comforta
 
 Interested in discussing cloud architecture, data platforms, AI integration, or scaling challenges?
 
-- 📧 **Email:** [gaudinot@gmail.com](mailto:gaudinot@gmail.com)
+- 📧 **Email:** [hello@spky.io](mailto:hello@spky.io)
 - 🌐 **Website & Consulting:** [spky.io](https://spky.io)
 - 💼 **LinkedIn:** [linkedin.com/in/aldric](https://linkedin.com/in/aldric)
 
