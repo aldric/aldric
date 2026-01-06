@@ -253,21 +253,9 @@ Interested in discussing cloud architecture, data platforms, AI integration, or 
 
 ## 📊 GitHub Activity
 
-My work includes both public and private repositories. GitHub tracks all contributions—including commits to private projects.
+Most of my professional work is in private repositories. Check my README above for detailed case studies and project descriptions.
 
-**Public Profile:** [![GitHub](https://img.shields.io/badge/GitHub-aldric-181717?style=flat&logo=github)](https://github.com/aldric)  
-**Contributions:** 565+ in the last year (public + private)
-
-> 💡 **Note:** Most of my professional work is in private repositories. Check my README above for detailed case studies and project descriptions.
-
----
-
-## 📊 GitHub Contributions
-
-My contributions include mainly private repositories. GitHub contributions counter includes all of my work across public and private projects.
-
-[![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldric&theme=dark)](https://github.com/aldric)
-
+**Public Profile:** [![GitHub](https://img.shields.io/badge/GitHub-aldric-181717?style=flat&logo=github)](https://github.com/aldric) 
 ---
 
 *Available for consulting engagements*
